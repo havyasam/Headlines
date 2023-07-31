@@ -35,7 +35,7 @@ nav{
 }
 .main-nav{
     justify-content:space-between;
-    padding-block:10px;
+    padding-block:25px;
 }
 .navlinks ul{
     gap: 16px;
